@@ -3,8 +3,11 @@
 </p>
 
 <div align="center">
-## About
+
+<h2>About</h2>
+
 Coding FTC robots
+
 </div>
 
 <p align="center">
@@ -14,9 +17,10 @@ Coding FTC robots
 </p>
 
 <div align="center">
-## Technologies
-</div>
 
+<h2>Technologies</h2>
+
+</div>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
