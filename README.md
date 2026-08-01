@@ -11,7 +11,7 @@ Coding FTC robots
 </div>
 
 <p align="center">
-  <a href="https://github.com/y-kamal26791">
+  <a href="https://github.com/yusufkashraf/yusufkashraf.github.io">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   </a>
 </p>
