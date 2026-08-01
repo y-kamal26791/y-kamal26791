@@ -12,7 +12,7 @@ Coding FTC robots
 
 <p align="center">
   <a href="https://yusufkashraf.github.io">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub%20Pages-000?style=for-the-badge&logo=githubpages&logoColor=white"/>
   </a>
 </p>
 
